@@ -13,5 +13,6 @@ public class SolutionN1 {
             sum_angle -= 720;
         }
         System.out.println(sum_angle);
+
     }
 }

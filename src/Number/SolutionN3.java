@@ -14,5 +14,6 @@ public class SolutionN3 {
         }
 
         System.out.println(answer);
+
     }
 }

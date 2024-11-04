@@ -11,5 +11,6 @@ public class SolutionN2 {
         int sum_angle = angle1 + angle2; while(sum_angle>=360){
             sum_angle -= 360;}
         System.out.println(sum_angle);
+
     }
 }
