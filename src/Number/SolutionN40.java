@@ -2,10 +2,10 @@ package Number;
 
 public class SolutionN40 {
     public static void main(String[] args) {
-        SolutionN40 s39 = new SolutionN40();
-        int result1 = s39.solution(new int[]{3, 4, 5, 2, 1});
+        SolutionN40 s40 = new SolutionN40();
+        int result1 = s40.solution(new int[]{3, 4, 5, 2, 1});
         System.out.println(result1);
-        int result2 = s39.solution(new int[]{5, 7, 8, 3});
+        int result2 = s40.solution(new int[]{5, 7, 8, 3});
         System.out.println(result2);
 
 
